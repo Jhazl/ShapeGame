@@ -13,6 +13,8 @@ The full list of functionalities can be found here
 * Users can change the label of shapes
 * Users can load in shapes from a file that is in the same format as example files
 
+![Shape game image](ShapeGame.png)
+
 ## How to set up 
 
 In order to set this up you will need Java setup and this application was built in JDK 17. You will need to gather the Java class files under this repository and compile and run the code.
